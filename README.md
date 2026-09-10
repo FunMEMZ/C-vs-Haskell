@@ -77,3 +77,7 @@ runghc Haskell/文件名.hs
 | 20. LIS 记忆化 | `20_lis_memo.hs` | `20_lis_memo.c` |
 | 20. LIS 贪心二分 | `20_lis_binary_search.hs` | `20_lis_binary_search.c` |
 | 20. LIS 树状数组 | `20_lis_fenwick.hs` | `20_lis_fenwick.c` |
+
+## 人类有话说
+
+看完这些代码吧，不能说是豁然开朗，至少也可以说是一窍不通。仅供参考吧。
